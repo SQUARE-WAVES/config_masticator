@@ -1,6 +1,6 @@
 {
   "name": "config_masticator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a tool for mashing up inheritable configurations",
   "main": "configmasticator.js",
   "directories": {
