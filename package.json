@@ -1,0 +1,28 @@
+{
+  "name": "config_masticator",
+  "version": "0.0.0",
+  "description": "a tool for mashing up inheritable configurations",
+  "main": "configmasticator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec -u tdd test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SQUARE-WAVES/config_masticator.git"
+  },
+  "author": "Mike B!",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SQUARE-WAVES/config_masticator/issues"
+  },
+  "homepage": "https://github.com/SQUARE-WAVES/config_masticator",
+  "dependencies": {
+    "lodash": "2.4.x"
+  },
+  "devDependencies": {
+    "mocha": "1.20.x"
+  }
+}
