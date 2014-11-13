@@ -1,5 +1,5 @@
 {
-  "name": "config_masticator",
+  "name": "config-masticator",
   "version": "1.0.0",
   "description": "a tool for mashing up inheritable configurations",
   "main": "configmasticator.js",
